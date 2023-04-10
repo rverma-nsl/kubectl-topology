@@ -51,7 +51,7 @@ replace k8s.io/sample-cli-plugin => k8s.io/sample-cli-plugin v0.17.3
 replace k8s.io/sample-controller => k8s.io/sample-controller v0.17.3
 
 require (
-	github.com/spf13/cobra v1.6.1
+	github.com/spf13/cobra v1.7.0
 	github.com/spf13/pflag v1.0.5
 	k8s.io/api v0.17.3
 	k8s.io/apimachinery v0.17.3
